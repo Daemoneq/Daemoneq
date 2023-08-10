@@ -3,7 +3,7 @@
 My name is Daniel, and I'm a web developer, with focus on JavaScript/TypeScript, React, and Next.js. I specialize in creating web applications that're both functional and appealing. My expertise extends to technologies like GraphQL, Docker, Tailwind, and Git which I have used in projects.
 
 📫 How to reach me: <br/>
-  linkedin: linkedin.com/in/daniel-stępniak
+  linkedin: [linkedin.com/in/daniel-stępniak](https://www.linkedin.com/in/daniel-st%C4%99pniak/) <br/>
   email: daniel.stepniak.99@gmail.com
 <!--
 **Daemoneq/Daemoneq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
