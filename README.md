@@ -2,7 +2,7 @@
 
 My name is Daniel, and I'm a web developer, with focus on JavaScript/TypeScript, React, and Next.js. I specialize in creating web applications that're both functional and appealing. My expertise extends to technologies like GraphQL, Docker, Tailwind, and Git which I have used in projects.
 
-📫 How to reach me: 
+📫 How to reach me: <br/>
   linkedin: linkedin.com/in/daniel-stępniak
   email: daniel.stepniak.99@gmail.com
 <!--
